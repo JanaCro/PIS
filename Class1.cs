@@ -8,5 +8,11 @@ namespace vjezba1
 {
     class Class1
     {
+        
+        
+        static void JanaMijenjamTiKod() {
+        }
     }
 }
+
+//jana doda sam ti jednu metodicu nadam se da se ne ljutis
