@@ -11,6 +11,9 @@ namespace vjezba1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Jana ovo ti ja mijenjam kod");
         }
     }
 }
+
+//jana doda sam ti linijicu koda nadam se da se ne ljutis
