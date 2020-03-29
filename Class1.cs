@@ -8,5 +8,7 @@ namespace vjezba1
 {
     class Class1
     {
+        static void funkcija()
+        { }
     }
 }
